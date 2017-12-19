@@ -1,0 +1,11 @@
+#datum-bar-nav > * {
+	display: block;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+}
+
+#datum-bar {
+	display: flex;
+	justify-content: space-between;
+}
